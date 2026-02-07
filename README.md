@@ -1,4 +1,3 @@
 # PortfolioIQ-Test
 PortfolioIQ-Test
-![PortfolioIQ](https://img.shields.io/badge/PortfolioIQ-v1.0-green)
 [![PortfolioIQ](https://img.shields.io/badge/PortfolioIQ-v1.0-green)](scripts/PortfolioIQ.py)
